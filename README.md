@@ -1,1 +1,2 @@
-# Hugging-face-demo
+# Hugging-face-demo 
+DnyanixBot is your personalized, AI-powered mentor designed to guide you through coding challenges and problem-solving. Whether you're stuck on a concept, need help breaking down a complex problem, or just need a boost in confidence, DnyanixBot adapts to your unique learning style and mindset. It uses clear, simple language to help you build strong fundamentals, overcome obstacles, and improve your logical thinking skills—making learning coding both fun and effective.
